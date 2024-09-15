@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "xboxhdmi")(type "KiCad")(uri "$(KIPRJMOD)/XDV.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,1 @@
+Hardware likely compatible with both the Ryzee119 XboxHDMI firmware (and subsequent designs) with some small modifications for pin placement. Also compatible with MakeMHz XboxHDMI/XboxHD+ firmware. Currently untested for now.
